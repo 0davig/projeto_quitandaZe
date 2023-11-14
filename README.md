@@ -1,3 +1,5 @@
+# projeto_QuitandaZe
+
 
 
 # Projeto Integrador: CRUD Básico em Programação Web
@@ -44,7 +46,7 @@ Para configurar e executar o projeto em sua máquina local, siga estas etapas:
 
 
 1. **Clone o Repositório**:
-   1. git clone https://github.com/0davig/projeto_quitandaZe.git
+   1. git clone https://github.com/omatheusszz/projeto_QuitandaZe.git
    2. cd projeto-quintanda
 2. **Instale Dependências**:
    1. Em seu console digite o comando: 'pip install Flask'
